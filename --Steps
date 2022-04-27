@@ -1,0 +1,3 @@
+npm init -y
+npm i express cors mongodb dotenv 
+create a file .env in the root of your project (package.json)
